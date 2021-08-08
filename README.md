@@ -1,2 +1,2 @@
 # AIML01
-AIML Jupyter NB 
+AIML 
